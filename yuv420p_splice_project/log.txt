@@ -1,0 +1,108 @@
+Date: 2019-03-25 06:49:32
+
+Info: ERROR: log test.
+
+File: main.c
+
+Line: 35
+
+Date: 2019-03-25 06:58:34
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:05:00
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:09:43
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:12:17
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:13:31
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:23:10
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:24:05
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:27:49
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:29:49
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:35:16
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:53:54
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 07:53:58
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:12:15
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:19:43
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:28:24
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:28:24
+Info: ERROR: inputFile fopen failed.
+File: main.c
+Line: 92
+Date: 2019-03-25 08:28:40
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:30:58
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:51:38
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:53:20
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:53:35
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:55:45
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:56:25
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 08:57:09
+Info: ERROR: log test.
+File: main.c
+Line: 35
+Date: 2019-03-25 09:02:39
+Info: ERROR: log test.
+File: main.c
+Line: 35
