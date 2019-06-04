@@ -1,7 +1,7 @@
 # yuv420p-splice-project
 
 ### 项目目的
-实现 n*n YUV420P 视频图像的拼接
+实现 n*m YUV420P 视频图像的拼接
 
 ### 项目环境
 操作系统：windows 10     
