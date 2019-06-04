@@ -106,3 +106,47 @@ Date: 2019-03-25 09:02:39
 Info: ERROR: log test.
 File: main.c
 Line: 35
+Date: 2019-06-04 17:14:25
+Info: ERROR: inputFile fopen failed.
+File: main.c
+Line: 99
+Date: 2019-06-04 17:15:08
+Info: ERROR: inputFile fopen failed.
+File: main.c
+Line: 99
+Date: 2019-06-04 17:15:45
+Info: ERROR: inputFile fopen failed.
+File: main.c
+Line: 99
+Date: 2019-06-04 17:19:08
+Info: ERROR: inputFile fopen failed.
+File: main.c
+Line: 99
+Date: 2019-06-04 17:26:14
+Info: ERROR: get_input_file_position() failed.
+File: yuv420psplice.c
+Line: 82
+Date: 2019-06-04 17:26:23
+Info: ERROR: get_input_file_position() failed.
+File: yuv420psplice.c
+Line: 82
+Date: 2019-06-04 17:26:56
+Info: outputFile open failed.
+File: main.c
+Line: 123
+Date: 2019-06-04 17:27:05
+Info: outputFile open failed.
+File: main.c
+Line: 123
+Date: 2019-06-04 17:27:14
+Info: outputFile open failed.
+File: main.c
+Line: 123
+Date: 2019-06-04 17:27:22
+Info: outputFile open failed.
+File: main.c
+Line: 123
+Date: 2019-06-04 17:32:38
+Info: outputFile open failed.
+File: main.c
+Line: 123

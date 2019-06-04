@@ -3,7 +3,7 @@
 * All rights reserved.  
 *   
 * 文件名称：main.c  
-* 主要功能：n*n yuv420p图像拼接  
+* 主要功能：n*m yuv420p图像拼接  
 *      
 * 原作者  ：陈晓明
 * 完成日期：2019年03月25日  
